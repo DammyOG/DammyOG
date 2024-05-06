@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DammyOG
 - 👀 I’m interested in back end development.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on python projects.
+- 🌱 I’m currently learning Node JS.
+- 💞️ I’m looking to collaborate on Node JS Projects.
 - 📫 How to reach me ...
 
 <!---
